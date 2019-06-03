@@ -14,5 +14,5 @@ function multiply(a, b) {
 }
 
 function divide (a, b) {
-return (a/b).float
+return a/b
 }
