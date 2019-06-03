@@ -23,6 +23,6 @@ function inc(n) {
   return ++n
 }
 
-function inc(n) {
+function dec(n) {
   return --n
 }
