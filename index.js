@@ -22,3 +22,7 @@ var n = 7
 function inc(n) {
   return ++n
 }
+
+function inc(n) {
+  return --n
+}
