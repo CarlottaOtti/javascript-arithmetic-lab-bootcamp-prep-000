@@ -20,5 +20,5 @@ return a/b
 var n = 7
 
 function inc(n) {
-  return n=+1
+  return n=++1
 }
